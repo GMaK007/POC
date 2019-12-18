@@ -1,8 +1,0 @@
-Changes updated directly on Master branch
-New addition on this file from Dev Branch
-feature/m1: Editing for Scenario 1
-hotfix1: Editig for Scenario 2
-feature/m2: Edit for Scenario 2
-feature/m1: Late Realization
-feature/m1: After Rebase
-
